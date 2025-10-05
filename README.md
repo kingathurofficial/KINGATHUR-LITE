@@ -18,9 +18,9 @@
 
 ## 🏆 **OFFICIAL REPOSITORY** - **Developed by LITE Tech**
 
-[![GitHub stars](https://img.shields.io/github/stars/iconictech-dev/Queen-KING-AI-Beta?style=for-the-badge&logo=github&color=ffcc00&label=STARS)](https://github.com/kingathurofficial/KING-LITE-AI-Beta/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/iconictech-dev/Queen-KING-AI-Beta?style=for-the-badge&logo=github&color=ffcc00&label=FORKS)](https://github.com/kingathurofficial/LITE-ATHUR-AI-Beta/network)
-[![GitHub issues](https://img.shields.io/github/issues/iconictech-dev/LITE-KING-AI-Beta?style=for-the-badge&logo=github&color=ffcc00&label=ISSUES)](https://github.com/kingathurofficial/ATHUR-LITE-AI-Beta/issues)
+[![GitHub stars](https://img.shields.io/github/stars/kingathur-dev/Queen-KING-AI-Beta?style=for-the-badge&logo=github&color=ffcc00&label=STARS)](https://github.com/kingathurofficial/KING-LITE-AI-Beta/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/KingAthur-dev/Queen-KING-AI-Beta?style=for-the-badge&logo=github&color=ffcc00&label=FORKS)](https://github.com/kingathurofficial/LITE-ATHUR-AI-Beta/network)
+[![GitHub issues](https://img.shields.io/github/issues/kingathur-dev/LITE-KING-AI-Beta?style=for-the-badge&logo=github&color=ffcc00&label=ISSUES)](https://github.com/kingathurofficial/ATHUR-LITE-AI-Beta/issues)
 
 </div>
 
@@ -31,10 +31,10 @@
 ## ⏰ REAL-TIME MONITORING
 <p align="center">
   <a href="https://github.com/kingathurofficial/Queen-KING-AI-Beta/commits/main">
-    <img src="https://img.shields.io/github/last-commit/iconictech-dev/Queen-KING-AI-Beta?style=for-the-badge&logo=vercel&logoColor=white&color=5865F2&label=LAST%20UPDATE&labelColor=121217&cacheSeconds=3600" alt="Deployment Status">
+    <img src="https://img.shields.io/github/last-commit/kingathurofficial-dev/Queen-KING-AI-Beta?style=for-the-badge&logo=vercel&logoColor=white&color=5865F2&label=LAST%20UPDATE&labelColor=121217&cacheSeconds=3600" alt="Deployment Status">
   </a>
   <a href="https://github.com/kingathurofficial/Queen-KING-AI-Beta/releases">
-    <img src="https://img.shields.io/github/v/release/iconictech-dev/Queen-KING-AI-Beta?style=for-the-badge&logo=github&color=00ff88&label=VERSION&labelColor=121217" alt="Version">
+    <img src="https://img.shields.io/github/v/release/kingathurofficial-dev/Queen-KING-AI-Beta?style=for-the-badge&logo=github&color=00ff88&label=VERSION&labelColor=121217" alt="Version">
   </a>
   <a href="https://github.com/kingathurofficial/Queen-KING-AI-Beta/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/LICENSE-MIT-ffcc00?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License">
@@ -122,8 +122,8 @@ echo "[📦] Installing dependencies..."
 pkg install -y git nodejs ffmpeg imagemagick libwebp python yarn
 
 # Clone Repository
-echo "[⬇️] Downloading Queen Ruva AI v3.0..."
-git clone https://github.com/iconictech-dev/Queen-Ruva-AI-Beta.git
+echo "[⬇️] Downloading Kingathurofficial AI v3.0..."
+git clone https://github.com/kingathurofficial-dev/kingathurofficial.git
 cd Queen-Ruva-AI-Beta
 
 # Install Node Modules
@@ -139,5 +139,5 @@ yarn install
 # Start Application
 clear
 echo "[🎉] Installation complete!"
-echo "[🚀] Starting Queen Ruva AI v3.0..."
+echo "[🚀] Starting Kinga Athur AI v3.0..."
 node .
